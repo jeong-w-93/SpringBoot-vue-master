@@ -1,3 +1,48 @@
+# UNK
+
+작업공간
+이 공간에서 작업하시면 됩니다.
+
+
+
+# 작업환경
+## SpringBoot
+- Java 1.8
+- Gradle or maven
+- SpringBoot
+- ~~Spring Data JPA~~
+- Spring Web MVC
+
+  
+## Vue
+- Vuex
+- Vue-Router
+- Axios
+- Quasar
+
+## Dbms
+- maria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![jdkversions](https://img.shields.io/badge/Java-1.7%2B-yellow.svg)]()
 [![vueversions](https://img.shields.io/badge/vue.js-2.2.x-brightgreen.svg)]()
 [![es2015](https://img.shields.io/badge/ECMAScript-6-green.svg)]()
