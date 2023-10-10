@@ -56,7 +56,7 @@ Convenient & efficient and better performance for Java microservice full stack.
 
 <p align="center" style="color: #FF9933">Give beginner as a present.</p>
 
-<p align="right" style="color: #3399FF">———————By Boyle Gu</p>
+
 
 ### [Chinese README[中文]](https://github.com/boylegu/SpringBoot-vue/blob/master/README-CN.md)
 
